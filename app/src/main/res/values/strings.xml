@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Smile</string>
+    <string name="select_correct_pair">correct pair</string>
+    <string name="shuffle">shuffle</string>
+</resources>
